@@ -1,0 +1,5 @@
+﻿  singleLinkedlist.cpp
+c:\users\hack2\desktop\취업\datastructure\singlelinkedlist\singlelinkedlist\singlelinkedlist.h(10): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_Data' 왼쪽은 무시됩니다.
+c:\users\hack2\desktop\취업\datastructure\singlelinkedlist\singlelinkedlist\singlelinkedlist.h(20): warning C4091: 'typedef ': 변수를 선언하지 않으면 'sNode' 왼쪽은 무시됩니다.
+  SingleLinkedList.vcxproj -> C:\Users\hack2\Desktop\취업\DataStructure\SingleLinkedList\Debug\SingleLinkedList.exe
+  SingleLinkedList.vcxproj -> C:\Users\hack2\Desktop\취업\DataStructure\SingleLinkedList\Debug\SingleLinkedList.pdb (Full PDB)
